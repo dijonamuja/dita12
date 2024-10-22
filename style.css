@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "open sans";
+    src: url("static/PlaywriteGBS-ExtraLight.ttf");
+}
+ 
+ 
+ 
+ 
+ h1{
+    color: green;
+    letter-spacing: 20px;
+    word-spacing: 50px;
+}
+
+p{
+    text-align: center;
+    text-indent: 50px ;
+}
+
+h2{
+    text-decoration: overline ;
+    text-transform: uppercase;
+    font-family: "Playwrite GB S", cursive;
+}
+
+h3{
+    text-decoration: line-through ;
+    text-transform: lowercase;
+    color: green limportant;
+}
+h4{
+    text-decoration: underline;
+
+}
+
+a{
+    text-decoration: none ;
+    text-transform: capitalize;
+
+}
+
+p{
+    font-family: sans-serif;
+}
+
+.italic{
+    font-style: italic ;
+}
+
+.text-red {
+    color: red;
+}
